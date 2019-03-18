@@ -1,0 +1,7 @@
+C:/Users/surface/Documents/Computer Graphic/raytracing_template/build/CMakeFiles/glad.dir
+C:/Users/surface/Documents/Computer Graphic/raytracing_template/build/CMakeFiles/raytracer.dir
+C:/Users/surface/Documents/Computer Graphic/raytracing_template/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/surface/Documents/Computer Graphic/raytracing_template/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/surface/Documents/Computer Graphic/raytracing_template/build/glfw-3.2/CMakeFiles/ALL_BUILD.dir
+C:/Users/surface/Documents/Computer Graphic/raytracing_template/build/glfw-3.2/src/CMakeFiles/glfw.dir
+C:/Users/surface/Documents/Computer Graphic/raytracing_template/build/pngdecode/CMakeFiles/pngdecode.dir

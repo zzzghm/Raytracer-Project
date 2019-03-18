@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/surface/Documents/Computer Graphic/raytracing_template/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/surface/Documents/Computer Graphic/raytracing_template/build/CMakeFiles/generate.stamp is up-to-date.
+  glad.c
+  glad.vcxproj -> C:\Users\surface\Documents\Computer Graphic\raytracing_template\build\Release\glad.lib

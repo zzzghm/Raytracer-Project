@@ -1,0 +1,53 @@
+﻿  main.cpp
+c:\users\surface\documents\computer graphic\raytracing_template\source\common\common.h(72): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\surface\documents\computer graphic\raytracing_template\source\common\common.h(73): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\surface\documents\computer graphic\raytracing_template\source\common\vec.h(301): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\common\vec.h(462): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\common\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\common\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\common\mat.h(710): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\common\mat.h(731): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\common\mat.h(733): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\common\mat.h(736): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\common\mat.h(753): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\common\mat.h(833): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\common\common.h(241): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(166): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(169): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(168): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(167): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(235): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(236): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(237): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(238): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(260): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(261): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(262): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(263): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(295): warning C4018: '<': signed/unsigned mismatch
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(322): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(330): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(335): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(340): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(372): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(383): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(395): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(421): warning C4018: '<': signed/unsigned mismatch
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(422): warning C4018: '<': signed/unsigned mismatch
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(427): warning C4244: '=': conversion from 'GLfloat' to 'unsigned char', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(428): warning C4244: '=': conversion from 'GLfloat' to 'unsigned char', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(429): warning C4244: '=': conversion from 'GLfloat' to 'unsigned char', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(430): warning C4244: '=': conversion from 'GLfloat' to 'unsigned char', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(550): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(679): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(694): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(695): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(702): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(709): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(718): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(717): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(724): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(806): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\surface\documents\computer graphic\raytracing_template\source\main.cpp(947): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+  raytracer.vcxproj -> C:\Users\surface\Documents\Computer Graphic\raytracing_template\build\Release\raytracer.exe
